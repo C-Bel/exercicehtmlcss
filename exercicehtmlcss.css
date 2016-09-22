@@ -1,0 +1,117 @@
+html
+
+body{ 
+	background-color: black;
+
+}
+
+.rectangle {
+	position: absolute;
+	width: 2000px;
+	height: 300px;
+	background-color: #1B6E76
+}
+
+.rectangle2{
+	position: absolute;
+	width: 2000px;
+	height: 25px;
+	background-color: #232323
+}
+
+.rectangle3{
+	position: absolute;
+	width: 2000px;
+	height: 100px;
+	background-color: #232323
+	top: 800px;
+	left: 500px;
+}
+
+h1{
+	width: 300px;
+	position: absolute;
+	top: 100px;
+	left: 650px;
+}
+
+h2{
+	width: 600px;
+	position: absolute;
+	top: 200px;
+	left: 450px;
+}
+
+.image1{
+	position: absolute;
+	width: 300px;
+	top: 80px;
+	left: 50px;
+}
+
+.image2{
+	width: 900px;
+	position: absolute;
+	top: 333px;
+	left: 10px;
+}
+
+.image3{
+	width: 600px;
+	position: absolute;
+	top: 333px;
+	left: 610px;
+}
+
+.image4{
+	width: 600px;
+	position: absolute;
+	top: 600px;
+	left: 610px;
+}
+
+.image5{
+	width: 600px;
+	position: absolute;
+	top: 612px;
+	left: 10px;
+}
+
+.acceuil{
+	width: 600px;
+	position: absolute;
+	top: 40px;
+	left: 910px;
+}
+
+.apropos {
+	width: 300px;
+	position: absolute;
+	top: 40px;
+	left: 980px;
+}
+
+.cours {
+	width: 300px;
+	position: absolute;
+	top: 40px;
+	left: 1060px;
+}
+
+.contact {
+	width: 300px;
+	position: absolute;
+	top: 40px;
+	left: 1120px;
+}
+
+.barrederecherche {
+	width: 600px;
+	position: absolute;
+	top: 940px;
+	left: 520px;
+}
+
+.couleurblanc{
+	background-color: #FFFFFF;
+}
